@@ -1,2 +1,5 @@
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 Si, se pueden ver los commits hechos en el archivo datos.txt de BETA y GAMMA
+
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Si, los compañeros confirmaron y descargaron los archivos del proyecto
