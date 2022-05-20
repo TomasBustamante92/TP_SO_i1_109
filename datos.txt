@@ -7,6 +7,6 @@ Nombre: Agnoli Luca Nahuel
 IP: 192.168.0.13
 Hora: 10:30
 
-Nombre: Real Agustin
+Nombre: Real Agsutin
 IP: 192.168.0.14
-Hora: 10:35
+Hora: 10:34

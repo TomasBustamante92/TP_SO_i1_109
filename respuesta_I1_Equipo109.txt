@@ -9,3 +9,7 @@ Si, tanto BETA como GAMMA podemos apreciar los cambios realizados por BETA.
 
 d-¿De qué forma se comunicaron ustedes?
 Nos comunicamos mediante WhatsApp y Discord.
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+Nuestra mejor forma de comunicarnos por github es mediante notas adentro de la solapa projects,
+en la cual vamos actulizando lo que realizo cada integrante.
