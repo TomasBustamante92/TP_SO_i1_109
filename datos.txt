@@ -2,3 +2,7 @@
 Nombre: Tomas Sanchez de Bustamante
 IP: 192.168.0.29
 Hora: 10:29
+
+Nombre: Agnoli Luca Nahuel
+IP: 192.168.0.13
+Hora: 10:30
