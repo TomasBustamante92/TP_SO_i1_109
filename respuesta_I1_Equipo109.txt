@@ -1,2 +1,2 @@
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
-Si
+Si, se pueden ver los commits hechos en el archivo datos.txt de BETA y GAMMA
